@@ -1,0 +1,2 @@
+body,html{margin:0}body{display:grid;grid-template-columns:1fr auto 1fr;grid-template-rows:1fr auto 1fr;height:100vh;width:100vw}#canvas{grid-column:2;grid-row:2;border:1px solid grey;border-radius:1em}
+/*# sourceMappingURL=/styles.4fad1cee.css.map */
